@@ -64,6 +64,17 @@ inventory
 UC-203 [Delete Inventory]: The system shall allow the head of administration to delete previously recorded inventory
 
 #### Use Case 300
+![image](https://github.com/user-attachments/assets/7db469ff-2f65-480d-a896-c7aaa941a372)
+
+UC-301 [Add Brewing Protocol]: The system shall allow the user to create a brewing protocol  
+UC-302 [Edit Brewing Protocol]: The system shall allow the user to edit an existing brewing protocol 
+UC-303 [Delete Brewing Protocol]: The system shall allow the head of administration to delete an existing brewing protocol  
+UC-304 [Add Bottling]: The system shall allow the user to register a new bottling process
+UC-305 [ Edit Bottling]: The system shall allow the user to edit an existing bottling process
+UC-306 [Delete Bottling]: The system shall allow the user to delete an existing bottling process
+UC-307 [Viewing Brewing Bottling]: The system shall allow the user to view the brewing protocol in its current state 
+UC-308 [Query Brewing & Bottling]: The system shall allow the user to query a report of the brewing and bottling for taxes
+
 
 ## Design
 > 🚧: Keep in mind the Corporate Identity (CI); you shall decide appropriately the color schema, graphics, typography, layout, User Experience (UX), and so on.
