@@ -2,8 +2,6 @@
 
 [![License](https://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-> 🚧: **This is a template project**: Make sure you adapt this documentation and the source code in this project according to your needs and use case. Comments are provided with "🚧:". Do not leave these comments in your final submission! Okay we will not
-
 #### Contents:
 - [Analysis](#analysis)
   - [Scenario](#scenario)
@@ -36,6 +34,8 @@ Since the Excel sheet includes many complex formulas, the remainder of the assoc
 The Excel sheet does not give any insights about specific customers or their orders since the administrative workload is tried to be held as small as possible for the head of administration. With the implementation of a web-based application, this information could be easily added and would provide better visibility into the sales trends.
 
 ### User Stories
+
+#### User Stories General
 1. As an Admin, I want to have a Web app to use on different mobile devices and desktop computers.
 2. As an Admin, I want to see a consistent visual appearance to navigate easily, and it should look consistent.
 3. As an Admin, I want to use list views to explore and read my business data.
@@ -44,9 +44,31 @@ The Excel sheet does not give any insights about specific customers or their ord
 6. As a User, I want to use list views so that I can access public pages.
 7. (Optional) As a User, I want to authenticate myself so that I can read my personal and confidential data.
 
+#### User Stories Administration
+1. As a Head of Administration, I want to add user accounts so that I can grant access to new users.
+2. As a User, I want to edit my user account so that I can update user information when necessary.
+3. As a Head of Administration, I want to delete user accounts so that I can remove access when needed.
+4. As a User, I want to log in so that I can access the system securely.
+5. As a User, I want to log out so that I can securely end my session.
+
+#### User Stories Inventory
+1. As a User, I want to add inventory so that I can keep track of new stock.
+2. As a User, I want to edit inventory so that I can update inventory details.
+3. As a Head of Administration, I want to delete inventory so that I can remove outdated or incorrect stock entries.
+
+#### User Stories Brewing & Bottling
+1. As a User, I want to add a brewing protocol so that I can document new brewing processes.
+2. As a User, I want to edit brewing protocols so that I can update brewing process details.
+3. As a Head of Administration, I want to delete brewing protocols so that I can remove outdated or incorrect processes.
+4. As a User, I want to add bottling information so that I can record packaging details.
+5. As a User, I want to edit bottling records so that I can update packaging information.
+6. As a Head of Administration, I want to delete bottling records so that I can remove incorrect or outdated packaging data.
+7. As a User, I want to view brewing protocols so that I can understand the brewing processes.
+8. As a User, I want to query brewing and bottling information so that I can get insights into production data.
+
 ### Use Case
 
-#### Use Case 100
+#### Use Case 100 Administration
 ![image](https://github.com/user-attachments/assets/f3969a99-9b10-4207-869e-0e660f53b5de)
  
 UC 101 - [Add User Account]: The system shall allow the head of administration to create a new user account
@@ -55,7 +77,7 @@ UC 103 - [Delete User Account]: The system shall allow the head of administratio
 UC 104 - [User Login]: The system shall allow the user to log in
 UC 105 - [User Logout]: The system shall allow the user to log out
 
-#### Use Case 200
+#### Use Case 200 Inventory
 ![image](https://github.com/user-attachments/assets/6575f187-2fba-4dbe-9645-527392fbd26a)
 
 UC-201 [Add Inventory]: The system shall allow the user to add inventory
@@ -63,7 +85,7 @@ UC-202 [Edit Inventory]: The system shall allow the user to edit previously ente
 inventory
 UC-203 [Delete Inventory]: The system shall allow the head of administration to delete previously recorded inventory
 
-#### Use Case 300
+#### Use Case 300 Brewing & Bottling
 ![image](https://github.com/user-attachments/assets/7db469ff-2f65-480d-a896-c7aaa941a372)
 
 UC-301 [Add Brewing Protocol]: The system shall allow the user to create a brewing protocol  
