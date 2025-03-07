@@ -46,12 +46,18 @@ The Excel sheet does not give any insights about specific customers or their ord
 
 ### Use Case
 
-![](images/use-case.png)
+#### Use Case 100
+![image](https://github.com/user-attachments/assets/f3969a99-9b10-4207-869e-0e660f53b5de)
+ 
+UC 101 - [Add User Account]: The system shall allow the head of administration to create a new user account
+UC 102 - [Edit User Account]: The system shall allow the user to edit their account
+UC 103 - [Delete User Account]: The system shall allow the head of administration to delete a user account
+UC 104 - [User Login]: The system shall allow the user to log in
+UC 105 - [User Logout]: The system shall allow the user to log out
 
-- UC-1 [Show all the Pizza]: Admin can retrieve all the pizza on the menu
-- UC-2 [Show a Pizza]: Admin can retrieve the information on a specific pizza.
-- UC-3 [Edit a Pizza]: Admin can create, update, and delete pizzas from the menu.
-- UC-4 [Show Current Location Offer]: User can retrieve special menu by location
+#### Use Case 200
+
+#### Use Case 300
 
 ## Design
 > 🚧: Keep in mind the Corporate Identity (CI); you shall decide appropriately the color schema, graphics, typography, layout, User Experience (UX), and so on.
