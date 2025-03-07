@@ -106,21 +106,21 @@ inventory
 
 Starting from the home page, we can visit different pages. Available public pages are visible in the menu...
 
-##Landing Page:
+## Landing Page:
 ![image](https://github.com/user-attachments/assets/319f9ffd-2c1d-4a3f-8350-2527f28bcb35)
 
-##Brewing and Bottling:
+## Brewing and Bottling:
 ![image](https://github.com/user-attachments/assets/86b6520a-1ff1-4cf2-bea6-f1fda049e8a2)
 
-##Brewing Protocol:
+## Brewing Protocol:
 ![image](https://github.com/user-attachments/assets/c988754d-f137-40d6-a047-8f7996d2cb4a)
 ![image](https://github.com/user-attachments/assets/cbbfc199-577b-41fc-8995-ce6b6cebb6f4)
 ![image](https://github.com/user-attachments/assets/249d8812-b5ad-49dc-a767-ef0296f94265)
 
-##Customer overview
+## Customer overview
 ![image](https://github.com/user-attachments/assets/86aeff53-199b-4ce0-b069-0a6a6e3bf01d)
 
-##Landing Page with stock warning
+## Landing Page with stock warning
 ![image](https://github.com/user-attachments/assets/0104036d-4fed-4b14-be50-84a388ee8648)
 
 
