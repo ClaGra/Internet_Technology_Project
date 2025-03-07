@@ -154,8 +154,8 @@ Alternatively, you can deploy your application to a free PaaS like [Render](http
 > 🚧: Include all the participants and briefly describe each of their **individual** contribution and/or roles. Screenshots/descriptions of your Kanban board or similar project management tools are welcome.
 
 ### Roles
-- Back-end developer: Charuta Pande 
-- Front-end developer: Devid Montecchiari
+- Back-end developer: 
+- Front-end developer: 
 
 ### Milestones
 1. **Analysis**: Scenario ideation, use case analysis and user story writing.
