@@ -111,6 +111,7 @@ Starting from the home page, we can visit different pages. Available public page
 
 ## Brewing and Bottling:
 ![image](https://github.com/user-attachments/assets/86b6520a-1ff1-4cf2-bea6-f1fda049e8a2)
+![image](https://github.com/user-attachments/assets/137b861a-4ea2-4e75-86c6-c52181f76d94)
 
 ## Brewing Protocol:
 ![image](https://github.com/user-attachments/assets/c988754d-f137-40d6-a047-8f7996d2cb4a)
