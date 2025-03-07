@@ -61,6 +61,9 @@ The Excel sheet does not give any insights about specific customers or their ord
 
 Starting from the home page, we can visit different pages. Available public pages are visible in the menu...
 
+![image](https://github.com/user-attachments/assets/cdafa010-058e-4cb9-8060-f44bb492751e)
+
+
 ### Prototype
 > 🚧: A prototype can be designed using placeholder text/figures in Budibase. You don't need to connect the front-end to back-end in the early stages of the project development.
 
