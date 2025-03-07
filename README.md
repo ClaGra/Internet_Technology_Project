@@ -69,7 +69,7 @@ The Excel sheet does not give any insights about specific customers or their ord
 ### Use Case
 
 #### Use Case 100 Administration
-![image](https://github.com/user-attachments/assets/f3969a99-9b10-4207-869e-0e660f53b5de)
+![image](https://github.com/user-attachments/assets/b96bf3f3-9f86-48a2-ae54-d099608180a2)
  
 UC 101 - [Add User Account]: The system shall allow the head of administration to create a new user account
 UC 102 - [Edit User Account]: The system shall allow the user to edit their account
