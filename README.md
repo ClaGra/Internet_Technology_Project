@@ -56,6 +56,12 @@ UC 104 - [User Login]: The system shall allow the user to log in
 UC 105 - [User Logout]: The system shall allow the user to log out
 
 #### Use Case 200
+![image](https://github.com/user-attachments/assets/6575f187-2fba-4dbe-9645-527392fbd26a)
+
+UC-201 [Add Inventory]: The system shall allow the user to add inventory
+UC-202 [Edit Inventory]: The system shall allow the user to edit previously entered
+inventory
+UC-203 [Delete Inventory]: The system shall allow the head of administration to delete previously recorded inventory
 
 #### Use Case 300
 
