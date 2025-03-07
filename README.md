@@ -61,7 +61,8 @@ The Excel sheet does not give any insights about specific customers or their ord
 
 Starting from the home page, we can visit different pages. Available public pages are visible in the menu...
 
-![image](https://github.com/user-attachments/assets/cdafa010-058e-4cb9-8060-f44bb492751e)
+![image](https://github.com/user-attachments/assets/86aeff53-199b-4ce0-b069-0a6a6e3bf01d)
+
 
 
 ### Prototype
