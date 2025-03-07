@@ -121,9 +121,11 @@ Starting from the home page, we can visit different pages. Available public page
 ## Customer overview
 ![image](https://github.com/user-attachments/assets/86aeff53-199b-4ce0-b069-0a6a6e3bf01d)
 
+## Order Overview
+![image](https://github.com/user-attachments/assets/47c82f82-202d-4729-af1c-b43bba680e65)
+
 ## Landing Page with stock warning
 ![image](https://github.com/user-attachments/assets/0104036d-4fed-4b14-be50-84a388ee8648)
-
 
 
 ### Prototype
