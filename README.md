@@ -71,11 +71,11 @@ The Excel sheet does not give any insights about specific customers or their ord
 #### Use Case 100 Administration
 ![image](https://github.com/user-attachments/assets/b96bf3f3-9f86-48a2-ae54-d099608180a2)
  
-- UC 101 - [Add User Account]: The system shall allow the head of administration to create a new user account
-- UC 102 - [Edit User Account]: The system shall allow the user to edit their account
-- UC 103 - [Delete User Account]: The system shall allow the head of administration to delete a user account
-- UC 104 - [User Login]: The system shall allow the user to log in
-- UC 105 - [User Logout]: The system shall allow the user to log out
+- UC-101 [Add User Account]: The system shall allow the head of administration to create a new user account
+- UC-102 [Edit User Account]: The system shall allow the user to edit their account
+- UC-103 [Delete User Account]: The system shall allow the head of administration to delete a user account
+- UC-104 [User Login]: The system shall allow the user to log in
+- UC-105 [User Logout]: The system shall allow the user to log out
 
 #### Use Case 200 Inventory
 ![image](https://github.com/user-attachments/assets/6575f187-2fba-4dbe-9645-527392fbd26a)
