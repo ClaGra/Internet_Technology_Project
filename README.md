@@ -134,9 +134,7 @@ Starting from the home page, we can visit different pages. Available public page
 ### Domain Design
 > 🚧: Provide a picture and describe your domain model; you may use Entity-Relationship Model or UML class diagram. Both can be created in Visual Paradigm - we have an academic license for it.
 
-The `ch.fhnw.pizza.data.domain` package contains the following domain objects / entities including getters and setters:
-
-![](images/domain-model.png)
+![image](https://github.com/user-attachments/assets/95b6d352-e775-470f-8637-90a0fd58aa9b)
 
 ### Business Logic 
 > 🚧: Describe the business logic for **at least one business service** in detail. If available, show the expected path and HTPP method. The remaining documentation of APIs shall be made available in the swagger endpoint. The default Swagger UI page is available at /swagger-ui.html.
